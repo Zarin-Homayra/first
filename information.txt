@@ -1,0 +1,5 @@
+Name : ZARIN HOMAYRA
+ID : 1407006
+Dept : CSE
+Versity : KUET
+Current CGPA : 3.0
